@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .display-none {
+    display: none !important;
+} */
+
+.lettershadow {
+    filter:drop-shadow(3px 3px #000000);
+}
+.lettershadows {
+    filter:drop-shadow(5px 5px #000);
+}
